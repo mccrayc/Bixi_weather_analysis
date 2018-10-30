@@ -1,5 +1,5 @@
 # Bixi_weather_analysis
-Analysis of Bixi bike share with Montreal weather observations
+Analysis of Bixi bike share with Montreal weather observations, as discussed in my October 2018 blog post "How does weather impact bike traffic in Montreal?" (http://web.meteo.mcgill.ca/cmccray/weather-bike-traffic-montreal/).
 
 Bixi_weather_analysis.ipynb is a jupyter notebook containing basic analysis of Bixi bikeshare, Ville de Montréal bike counter data, and weather observations for Montreal.
 
